@@ -1,0 +1,58 @@
+{
+  "Places": [
+    {
+      "id": 1,
+      "name": "Dreisam Lehen",
+      "descr": "Die Dreisam verbindet die Innestadt mit der Peripherie",
+      "attribs": [
+        "sunny",
+        "natural",
+        "youth",
+        "water"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Botanischer Garten",
+      "descr": "Erlebe die Welt der Pflanzen. Vom Mammutbaum zur Seerose",
+      "attribs": [
+        "natural",
+        "garden",
+        "education"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dietenbach Park",
+      "descr": "Wasser, Sport und SPiel in attraktivem Grün aus Wiesen, Bäumen und Wasser",
+      "attribs": [
+        "natural",
+        "leisure",
+        "sport",
+        "water"
+      ]
+    },
+    {
+      "name": "Kanonenplatz",
+      "descr": "Aussicht mit Geschichte, auf der Plattform trifft sich Jung, Alt, Tourist usw, Blick auf die Dächer der Innenstadt und die Straßen von Oberau.",
+      "attribs": [
+        "education",
+        "natural",
+        "leisure",
+        "youth"
+      ],
+      "id": 5
+    },
+    
+    {
+      "name": "sweetPlace",
+      "descr": "Sweetest Place in town",
+      "attribs": [
+        "sport",
+        "youth",
+        "leisure"
+      ],
+      "id": 10
+    }
+  ]
+}
